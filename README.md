@@ -20,7 +20,8 @@
 
 ## :trophy: My Stats:
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=phb2000&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=phb2000&hide=php&theme=tokyonight&count_private=true)
+<br />
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=phb2000&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true)
 
 
 
