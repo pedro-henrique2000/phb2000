@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently **improving my knowledge on Java and JS.**
 - 📫 How to reach me: [mail](mailto:p.becker2000@hotmail.com)
+- 💬 Ask me about **anything**
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -17,7 +18,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg
+## :trophy: My Stats:
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=phb2000&count_private=true&show_icons=true&theme=tokyonight)
 
 
 
