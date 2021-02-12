@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently **improving my knowledge on Java and JS.**
 - 📫 How to reach me: [mail](mailto:p.becker2000@hotmail.com)
-- 💬 Ask me about **anything**
 
 ## 🧰 Languages and Tools:
 <p align="center">
