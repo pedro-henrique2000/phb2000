@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently **improving my knowledge on Java and JS.**
+- 🌱 I’m currently **improving my knowledge about Java and JS.**
 - 📫 How to reach me: [mail](mailto:p.becker2000@hotmail.com)
 
 ## 🧰 Languages and Tools:
